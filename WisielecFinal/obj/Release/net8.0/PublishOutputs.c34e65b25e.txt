@@ -1,0 +1,5 @@
+D:\Code\C#\Wisielec\WisielecFinal.exe
+D:\Code\C#\Wisielec\WisielecFinal.dll
+D:\Code\C#\Wisielec\WisielecFinal.deps.json
+D:\Code\C#\Wisielec\WisielecFinal.runtimeconfig.json
+D:\Code\C#\Wisielec\WisielecFinal.pdb

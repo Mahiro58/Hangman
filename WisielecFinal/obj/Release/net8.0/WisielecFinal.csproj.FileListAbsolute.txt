@@ -1,0 +1,14 @@
+C:\Users\mrshm\source\repos\WisielecFinal\WisielecFinal\bin\Release\net8.0\WisielecFinal.exe
+C:\Users\mrshm\source\repos\WisielecFinal\WisielecFinal\bin\Release\net8.0\WisielecFinal.deps.json
+C:\Users\mrshm\source\repos\WisielecFinal\WisielecFinal\bin\Release\net8.0\WisielecFinal.runtimeconfig.json
+C:\Users\mrshm\source\repos\WisielecFinal\WisielecFinal\bin\Release\net8.0\WisielecFinal.dll
+C:\Users\mrshm\source\repos\WisielecFinal\WisielecFinal\bin\Release\net8.0\WisielecFinal.pdb
+C:\Users\mrshm\source\repos\WisielecFinal\WisielecFinal\obj\Release\net8.0\WisielecFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrshm\source\repos\WisielecFinal\WisielecFinal\obj\Release\net8.0\WisielecFinal.AssemblyInfoInputs.cache
+C:\Users\mrshm\source\repos\WisielecFinal\WisielecFinal\obj\Release\net8.0\WisielecFinal.AssemblyInfo.cs
+C:\Users\mrshm\source\repos\WisielecFinal\WisielecFinal\obj\Release\net8.0\WisielecFinal.csproj.CoreCompileInputs.cache
+C:\Users\mrshm\source\repos\WisielecFinal\WisielecFinal\obj\Release\net8.0\WisielecFinal.dll
+C:\Users\mrshm\source\repos\WisielecFinal\WisielecFinal\obj\Release\net8.0\refint\WisielecFinal.dll
+C:\Users\mrshm\source\repos\WisielecFinal\WisielecFinal\obj\Release\net8.0\WisielecFinal.pdb
+C:\Users\mrshm\source\repos\WisielecFinal\WisielecFinal\obj\Release\net8.0\WisielecFinal.genruntimeconfig.cache
+C:\Users\mrshm\source\repos\WisielecFinal\WisielecFinal\obj\Release\net8.0\ref\WisielecFinal.dll
